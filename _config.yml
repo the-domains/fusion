@@ -1,0 +1,28 @@
+name: Fusion
+favicon: null
+layout_spectrum: 0.9439318324439228
+typography_spectrum: 0.1351364399306476
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6867042200174183
+  lightness: 0.08102604397572577
+  saturation: 0.05471705039963126
+  rhythmicContrast: 0.3130460944958031
+purpose: []
